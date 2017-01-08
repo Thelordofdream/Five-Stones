@@ -1,2 +1,2 @@
 # Five-Stones
-A Self - Playing Backgammon Artificial Intelligence
+A Self-Playing Gobang Artificial Intelligence
